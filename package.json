@@ -7,11 +7,15 @@
     "dshaw",
     "dshaw.com"
   ],
-  "main": "index",
+  "main": "server",
+  "scripts": {
+    "start": "node ."
+  },
   "dependencies": {
     "express": "~2.5.9"
   },
   "engines": {
     "node": ">= 0.6.0"
-  }
+  },
+  "subdomain": "dshaw"
 }
