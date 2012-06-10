@@ -14,10 +14,10 @@
   "dependencies": {
     "express": "~2.5.9"
   },
+  "devDependencies": {},
+  "optionalDependencies": {},
   "engines": {
     "node": ">= 0.6.0"
   },
-  "subdomain": "dshaw",
-  "devDependencies": {},
-  "optionalDependencies": {}
+  "subdomain": "dshaw"
 }
