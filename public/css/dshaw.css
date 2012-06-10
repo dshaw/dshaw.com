@@ -1,0 +1,32 @@
+body { padding-top: 60px }
+
+.topbar .icon {
+    float: right;
+    display: block;
+    padding: 7px 7px 0;
+    margin-left: -20px;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 1;
+}
+.topbar .icon img {
+    width: 24px;
+    height: 24px;
+}
+
+.hero-unit {
+    background: #0F0D0A url(../images/dshaw-about.jpg) 0 -80px no-repeat;
+    height: 420px;
+}
+.hero-unit h1 {
+    color: white;
+}
+.hero-unit p {
+    color: #bfbfbf;
+}
+.hero-unit h1, .hero-unit p {
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25), 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+#mission { width: 260px; }
