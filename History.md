@@ -1,4 +1,9 @@
 
+3.0.3 / 2012-11-05
+==================
+
+  * Emurse finally shut down. Point to LinkedIn for now.
+
 3.0.2 / 2012-06-10
 ==================
 
